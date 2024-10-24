@@ -1,4 +1,4 @@
-# Coffee Machine Program
+# Coffee Machine Program ☕
 
 ## Program Overview
 This program simulates a coffee machine that allows users to purchase drinks like espresso, latte, and cappuccino. The machine checks if it has enough resources (water, milk, coffee) and processes user payments using coin input.
