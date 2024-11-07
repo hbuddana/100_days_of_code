@@ -1,4 +1,5 @@
 # Summary of the Program Flow
+![image](https://github.com/user-attachments/assets/beb57936-2e3b-466c-a300-b7832c70dbeb)
 
 ## Main Game Setup (`main.py`)
 - Sets up the screen and creates instances of the `Snake`, `Food`, and `Scoreboard`.
